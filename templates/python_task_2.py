@@ -5,6 +5,8 @@ def calculate_distance_matrix(df)->pd.DataFrame():
     """
     Calculate a distance matrix based on the dataframe, df.
 
+##Testing the committed files
+
     Args:
         df (pandas.DataFrame)
 
