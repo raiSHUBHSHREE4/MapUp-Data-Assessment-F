@@ -14,6 +14,8 @@ def generate_car_matrix(df)->pd.DataFrame:
     """
     # Write your logic here
 
+    print('shubh')
+
     return df
 
 
